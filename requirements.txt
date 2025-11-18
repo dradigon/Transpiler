@@ -1,0 +1,8 @@
+streamlit==1.38.0
+plotly==6.3.1
+pandas==2.3.3
+numpy==2.3.3
+prettytable==3.10.0
+ply==3.11
+graphviz==0.20.3
+altair==5.5.0
